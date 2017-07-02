@@ -1,0 +1,31 @@
+{
+  "name": "nodecli",
+  "version": "1.0.0",
+  "description": "nodecli",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.0.0",
+    "commander": "^2.10.0",
+    "progress": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "eslint-config-defaults": "^9.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noahgift/nodecli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "Noah Gift",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noahgift/nodecli/issues"
+  },
+  "homepage": "https://github.com/noahgift/nodecli#readme"
+}
