@@ -7,7 +7,7 @@ Shows common patterns across languages in commandline tools.  Native packaging, 
 
 ## Requests For Examples
 
-If a pattern or language isn't covered yet, please [file an issue](https://github.com/noahgift/cli-rosetta/issues) in Github and I will prioritize requests.
+If a pattern or language isn't covered yet, please [file an issue](https://github.com/noahgift/cli-rosetta/issues) in Github and I will prioritize popular requests.
 
 ## Table of Contents
 ### Languages
