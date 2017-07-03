@@ -15,3 +15,5 @@ If a pattern or language isn't covered yet, please [file an issue](https://githu
 ### Examples
 * #### Hello World
    - [Node Hello World](https://github.com/noahgift/cli-rosetta/tree/master/node/hello-world)
+* #### Multi-paradigm
+   - [Node Multi-paradigm (Blockchain, colored output, JSON formatting](https://github.com/noahgift/cli-rosetta/blob/master/node/multi-paradigm/README.md)
