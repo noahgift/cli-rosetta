@@ -12,6 +12,8 @@ If a pattern or language isn't covered yet, please [file an issue](https://githu
 ## Table of Contents
 ### Languages
 * [Node](https://github.com/noahgift/cli-rosetta/tree/master/node)
+* [Python](https://github.com/noahgift/cli-rosetta/tree/master/python)
 ### Examples
 * #### Hello World
    - [Node Hello World](https://github.com/noahgift/cli-rosetta/tree/master/node/hello-world)
+   - [Python Hello World] ((https://github.com/noahgift/cli-rosetta/tree/master/python/hello-world)
