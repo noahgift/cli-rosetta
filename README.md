@@ -20,3 +20,8 @@ If a pattern or language isn't covered yet, please [file an issue](https://githu
 * #### Multi-paradigm
    - [Node Multi-paradigm (Blockchain, colored output, JSON formatting](https://github.com/noahgift/cli-rosetta/blob/master/node/multi-paradigm/README.md)
      
+## External Table of Contents
+Links to External Examples
+### Examples
+* ### Colored Output
+   - [Ruby Color LS](https://github.com/athityakumar/colorls/tree/master/lib)
