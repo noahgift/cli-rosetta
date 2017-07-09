@@ -7,9 +7,9 @@ machine:
 
 dependencies:
   pre:
-    - cd python/hello-world && make install
+    - cd python && cd hello-world && make install
 
 test:
   pre:
-    - cd python/hello-world && make lint
+    - cd python && cd hello-world && make lint
 
