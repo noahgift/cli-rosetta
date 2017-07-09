@@ -7,6 +7,10 @@ Commandline Tools In Multiple Languages
 
 Shows common patterns across languages in commandline tools.  Native packaging, build system and popular libraries are used throughout.
 
+## Emphasis
+
+The main emphasis of examples will be geared toward machine learning, data science and AI.
+
 ## Requests For Examples
 
 If a pattern or language isn't covered yet, please [file an issue](https://github.com/noahgift/cli-rosetta/issues) in Github and I will prioritize popular requests.
