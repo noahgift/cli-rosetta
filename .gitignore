@@ -1,3 +1,7 @@
+###R
+.RHistory
+*.RProj
+
 ###Python
 .vscode
 .DS_Store
@@ -75,3 +79,4 @@ typings/
 # dotenv environment variables file
 .env
 
+.Rproj.user
