@@ -2,8 +2,8 @@
 
 require 'trollop'
 opts = Trollop::options do
-  opt :phrase, "Phrase", :type => :string        # string --phrase <s>
-  opt :count, "Number of limbs"             # integer --count <i>
+  opt :phrase, "Phrase", :type => :string       # string --phrase <s>
+  opt :count, "Number of limbs"                 # integer --count <i>
 end
 
 
