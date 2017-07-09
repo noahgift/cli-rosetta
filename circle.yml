@@ -1,0 +1,15 @@
+machine:
+  node:
+    # Circle will use node 6.11.0
+    version: 6.11.0
+  python:
+    version: 3.6.1
+
+dependencies:
+  pre:
+    - cd python && make install
+
+test:
+  pre:
+    - cd python && make lint
+

@@ -16,7 +16,7 @@ args <- parse_args(parser)
 
 # Function to Generate Phrases
 phrasegen <- function(arguments){
-    for (count in 1:arguments$count){
+    for (count in 1:arguments$count) {
         cat(paste(arguments$phrase, "\n"))
     }
 }
