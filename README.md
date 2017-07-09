@@ -18,6 +18,7 @@ If a pattern or language isn't covered yet, please [file an issue](https://githu
 * [R](https://github.com/noahgift/cli-rosetta/tree/master/R)
 * [Bash](https://github.com/noahgift/cli-rosetta/tree/master/bash)
 * [Ruby](https://github.com/noahgift/cli-rosetta/tree/master/ruby)
+* [Go](https://github.com/noahgift/cli-rosetta/tree/master/go)
 ### Examples
 * #### Hello World
    - [Node Hello World](https://github.com/noahgift/cli-rosetta/tree/master/node/hello-world)
@@ -25,6 +26,7 @@ If a pattern or language isn't covered yet, please [file an issue](https://githu
    - [R Hello World](https://github.com/noahgift/cli-rosetta/tree/master/R/hello-world)
    - [Bash Hello World](https://github.com/noahgift/cli-rosetta/tree/master/bash/hello-world)
    - [Ruby Hello World](https://github.com/noahgift/cli-rosetta/tree/master/ruby/hello-world)
+   - [Go Hello World](https://github.com/noahgift/cli-rosetta/tree/master/Go/hello-world)
 * #### Multi-paradigm
    - [Node Multi-paradigm (Blockchain, colored output, JSON formatting](https://github.com/noahgift/cli-rosetta/blob/master/node/multi-paradigm/README.md)
      
