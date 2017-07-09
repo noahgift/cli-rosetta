@@ -1,3 +1,5 @@
+[![cli-rosetta Status CircleCI](https://circleci.com/gh/noahgift/cli-rosetta/tree/master.svg?style=svg)](https://circleci.com/gh/noahgift/cli-rosetta/tree/master)
+
 # cli-rosetta
 Commandline Tools In Multiple Languages
 
