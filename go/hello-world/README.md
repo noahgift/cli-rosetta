@@ -22,11 +22,12 @@ hello world
 
 Setting these variables:
 
-    ``` export GOPATH="${HOME}/.go"                                                      
+``` 
+        export GOPATH="${HOME}/.go"                                                      
         export GOROOT="$(brew --prefix golang)/libexec"                                  
         export PATH="$PATH:${GOPATH}/bin:${GOROOT}/bin"                                  
         export GOBIN=$GOPATH/bin     
-        ```
+```
 
 * Write first program with Go
     - https://golang.org/doc/code.html
