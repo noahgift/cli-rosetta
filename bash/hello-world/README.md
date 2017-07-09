@@ -2,13 +2,30 @@
 
 ## Overview
 
-To lint:  `make lint`
+To lint:  `make lint` (note still working through some ruby lint issues..not recognizing gems)
 To run: 
 
+```
+➜  hello-world git:(master) ✗ ./hello-world.rb --count 5 --phrase "hello world"       
+hello world
+hello world
+hello world
+hello world
+hello world
+```
 ## Environment
 
 * Installed https://github.com/koalaman/shellcheck in VSCode
 * On Homebrew you can install:  `brew install shellcheck`
+
+You may need to also do:
+
+```
+$ echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshenv
+$ echo 'eval "$(rbenv init -)"' >> ~/.zshenv
+$ echo 'source $HOME/.zshenv' >> ~/.zshrc
+$ exec $SHELL
+```
 
 
 ## References
