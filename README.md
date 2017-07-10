@@ -31,6 +31,8 @@ If a pattern or language isn't covered yet, please [file an issue](https://githu
    - [Bash Hello World](https://github.com/noahgift/cli-rosetta/tree/master/bash/hello-world)
    - [Ruby Hello World](https://github.com/noahgift/cli-rosetta/tree/master/ruby/hello-world)
    - [Go Hello World](https://github.com/noahgift/cli-rosetta/tree/master/go/hello-world)
+* #### JSON to Descriptive Statistics to CSV (TBD)
+
 * #### Multi-paradigm
    - [Node Multi-paradigm (Blockchain, colored output, JSON formatting)](https://github.com/noahgift/cli-rosetta/blob/master/node/multi-paradigm/README.md)
      
