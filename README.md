@@ -3,6 +3,11 @@
 # cli-rosetta
 Commandline Tools In Multiple Languages
 
+
+[Buy the book here!](http://leanpub.com/pythoncli/c/TgVJDlaCyPl4)
+
+![book](https://d2sofvawe08yqg.cloudfront.net/pythoncli/hero?1582639331)
+
 ## Description
 
 Shows common patterns across languages in commandline tools.  Native packaging, build system and popular libraries are used throughout.
